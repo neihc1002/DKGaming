@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\Model.dll.config
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\Model.dll
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\Model.pdb
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.dll
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\System.Data.SqlServerCe.dll
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.xml
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio Projects\DKGaming\Model\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Visual Studio Projects\DKGaming\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\DKGaming\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\DKGaming\Model\obj\Debug\Model.dll
+F:\Visual Studio Projects\DKGaming\Model\obj\Debug\Model.pdb
